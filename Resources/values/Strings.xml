@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">MySchool360</string>
+	<string name="hello">
+		Welcome to the MySchool360 Mobile App.\n\n Tap your school to get started...
+	</string>
+</resources>
